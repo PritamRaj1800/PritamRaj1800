@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pritam Raj
+- 👀 I’m interested in thinking 
+- 🌱 I’m currently learning AIML 
+- 💞️ I’m looking to collaborate on create project 
